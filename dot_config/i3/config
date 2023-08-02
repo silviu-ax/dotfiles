@@ -224,4 +224,4 @@ exec xinput --set-prop "Logitech Gaming Mouse G502" "libinput Accel Speed" -0.8
 exec_always polychromatic-cli -d keyboard -o static -c ffffff
 exec_always polychromatic-cli -d keyboard -o brightness -p 100
 exec redshift -l 44.43579:26.01649
-exec_always feh --bg-scale "/home/silviuax/Pictures/wallpapers/wallpaper_rize.png"
+exec_always feh --bg-scale "$HOME/Pictures/wallpapers/wallpaper_rize.png"
